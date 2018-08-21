@@ -1,2 +1,2 @@
-# incremental_file_backup
-Back up for a single file, as in a password vault, or other doc that requires incremental backups. Date and time is appended to the ends of each file.
+# Incremental File Backup
+This script is designed for incremental backs-ups of a single file. This is originally created for .kpdb files to prevent much data loss if your .kdbx file happens to get corrupt. Date and time is appended to each file that is saved.
